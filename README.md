@@ -52,7 +52,6 @@ I'm an **experienced Frontend + WordPress Developer** with a strong focus on bui
   <img src="https://img.icons8.com/?size=100&id=BnOyV43gP7fZ&format=png&color=000000" width="40" alt="Icon">
   <img src="https://img.icons8.com/?size=100&id=DI5lKjaflCED&format=png&color=000000" width="40" alt="Icon">
   <img src="https://img.icons8.com/?size=100&id=115298&format=png&color=000000" width="40" alt="Icon">
-  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="ACF" width="40">
   <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" width="40" alt="Icon">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" alt="Icon">
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="40" alt="Icon">
