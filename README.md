@@ -39,21 +39,30 @@ I'm an **experienced Frontend + WordPress Developer** with a strong focus on bui
 ### 🛠️ Tools & Plugins I Work With
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="40" />
-  <img src="https://cdn.simpleicons.org/woocommerce/96588a" alt="WooCommerce" width="40" />
-  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" width="40" />
-  <img src="https://cdn.simpleicons.org/wpengine/1D428A" alt="WP Engine" width="40" />
-  <img src="https://cdn.simpleicons.org/divi/1D428A" alt="Divi" width="40" />
-  <img src="https://cdn.simpleicons.org/acf/1D428A" alt="Advanced Custom Fields" width="40" />
-  <img src="https://cdn.simpleicons.org/querymonitor/1D428A" alt="Query Monitor" width="40" />
-  <img src="https://cdn.simpleicons.org/wprocket/F56600" alt="WP Rocket" width="40" />
-  <img src="https://cdn.simpleicons.org/wordfence/1D428A" alt="Wordfence" width="40" />
-  <img src="https://cdn.simpleicons.org/sucuri/1D428A" alt="Sucuri" width="40" />
-  <img src="https://cdn.simpleicons.org/yoast/aa0f63" alt="Yoast SEO" width="40" />
-  <img src="https://cdn.simpleicons.org/rankmath/1D428A" alt="Rank Math SEO" width="40" />
-  <img src="https://cdn.simpleicons.org/polylang/1DA1F2" alt="Polylang" width="40" />
+  <!-- WordPress -->
+  <img src="https://cdn.simpleicons.org/wordpress" alt="WordPress" width="40">
+  <!-- Elementor -->
+  <img src="https://cdn.simpleicons.org/elementor" alt="Elementor" width="40">
+  <!-- WooCommerce -->
+  <img src="https://cdn.simpleicons.org/woocommerce" alt="WooCommerce" width="40">
+  <!-- Divi (Elegant Themes) -->
+  <img src="https://cdn.simpleicons.org/elegantthemes" alt="Divi" width="40">
+  <!-- ACF -->
+  <img src="https://cdn.simpleicons.org/advancedcustomfields" alt="ACF" width="40">
+  <!-- WP Rocket -->
+  <img src="https://cdn.simpleicons.org/wprocket" alt="WP Rocket" width="40">
+  <!-- Wordfence -->
+  <img src="https://cdn.simpleicons.org/wordfence" alt="Wordfence" width="40">
+  <!-- Sucuri -->
+  <img src="https://cdn.simpleicons.org/sucuri" alt="Sucuri" width="40">
+  <!-- Yoast SEO -->
+  <img src="https://cdn.simpleicons.org/yoast" alt="Yoast" width="40">
+  <!-- Rank Math SEO -->
+  <img src="https://cdn.simpleicons.org/rankmath" alt="Rank Math SEO" width="40">
+  <!-- Query Monitor -->
+  <img src="https://cdn.simpleicons.org/querymonitor" alt="Query Monitor" width="40">
 </p>
+
 
 ---
 
