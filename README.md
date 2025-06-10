@@ -40,7 +40,7 @@ I'm an **experienced Frontend + WordPress Developer** with a strong focus on bui
 
 <p align="left">
   <!-- WordPress -->
-  <img src="[https://cdn.simpleicons.org/wordpress](https://img.icons8.com/?size=100&id=13664&format=png&color=000000)" alt="WordPress" width="40">
+  <img src="[https://img.icons8.com/?size=100&id=13664&format=png&color=000000)](https://img.icons8.com/?size=100&id=13664&format=png&color=000000)" width="40">
   
 </p>
 
