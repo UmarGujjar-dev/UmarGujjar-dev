@@ -36,16 +36,37 @@ I'm an **experienced Frontend + WordPress Developer** with a strong focus on bui
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> </a> 
+<p align="left">
+  <!-- Page Builders -->
+  <img src="https://cdn.worldvectorlogo.com/logos/elementor-icon.svg" alt="Elementor" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Divi_Theme_Logo.png" alt="Divi" width="40" height="40"/>
+
+  <!-- eCommerce -->
+  <img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg" alt="WooCommerce" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40" height="40"/>
+
+  <!-- Caching -->
+  <img src="https://www.litespeedtech.com/images/logos/litespeed/litespeed-logo.png" alt="LiteSpeed" width="40" height="40"/>
+  <img src="https://wp-rocket.me/wp-content/themes/wp-rocket/images/logo.svg" alt="WP Rocket" width="40" height="40"/>
+
+  <!-- Security -->
+  <img src="https://www.wordfence.com/wp-content/themes/wordfence/assets/images/logos/wordfence-logo.svg" alt="Wordfence" width="40" height="40"/>
+  <img src="https://sucuri.net/images/sucuri-logo.svg" alt="Sucuri" width="40" height="40"/>
+
+  <!-- SEO -->
+  <img src="https://yoast.com/app/themes/yoast-theme/assets/images/logo.svg" alt="Yoast" width="40" height="40"/>
+  <img src="https://rankmath.com/wp-content/themes/rankmath/assets/images/rank-math-logo.svg" alt="Rank Math" width="40" height="40"/>
+
+  <!-- Backup & Migration -->
+  <img src="https://ps.w.org/all-in-one-wp-migration/assets/icon-256x256.png" alt="All-in-One WP Migration" width="40" height="40"/>
+  <img src="https://ps.w.org/wpvivid-backuprestore/assets/icon-256x256.png" alt="WPvivid" width="40" height="40"/>
+
+  <!-- Multilingual -->
+  <img src="https://ps.w.org/polylang/assets/icon-256x256.png" alt="Polylang" width="40" height="40"/>
+
+  <!-- Dev Tools -->
+  <img src="https://www.advancedcustomfields.com/wp-content/themes/acf/assets/images/acf-icon.svg" alt="ACF" width="40" height="40"/>
+  <img src="https://querymonitor.com/wp-content/themes/query-monitor/images/logo.png" alt="Query Monitor" width="40" height="40"/>
 </p>
 
 ---
