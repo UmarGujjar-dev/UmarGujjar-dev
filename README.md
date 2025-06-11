@@ -15,12 +15,7 @@ I'm an **experienced Frontend + WordPress Developer** with a strong focus on bui
 - UI/UX-driven site redesigns or performance revamps
 - Beginner-friendly Python projects for learning and contributing
 
-### 🤝 I’m looking for help with
-- Best practices for structuring Python codebases
-- Tips for integrating Python into web development workflows
-- Real-world project ideas for practicing Python
-
-### 🌱 I’m currently learning
+### 🧠 Always Learning
 ⚙️ **Python** for scripting, web backends, and automation  
 📦 **API Integration** and RESTful API design  
 📊 Basic **data handling** and **automation scripts** using Python  
