@@ -59,6 +59,17 @@ I'm an **experienced Frontend + WordPress Developer** with a strong focus on bui
 
 </p>
 
+---
+
+### 📬 Connect With Me
+<p>
+  
+  <a href="https://www.linkedin.com/in/umargujjar-dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="40" height="40"/> </a>
+  <a href="https://wa.me/+923264534732" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000" alt="whatsapp" width="40" height="40"/> </a>
+  <a href="mailto:umargujjardeveloper@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="40" height="40"/> </a>
+  <a href="https://www.fiverr.com/users/umerali182/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=ngc6JsBomclm&format=png&color=000000" alt="Fiverr" width="40" height="40"/> </a>
+  
+</p>
 
 ---
 
